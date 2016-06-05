@@ -1,3 +1,7 @@
 I have sucessfully updated my website with new content! Now I'm going to try adding code... 
 I'll try the code included in the default post
 
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
