@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Static website created with Jekyll"
 date:   2016-06-02 14:14:02 -0400
 categories: jekyll update
 ---
