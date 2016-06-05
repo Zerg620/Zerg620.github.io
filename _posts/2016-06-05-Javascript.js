@@ -1,1 +1,16 @@
-confirm("HI!");
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display a confirm box.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+    confirm("Press a button!");
+}
+</script>
+
+</body>
+</html>
