@@ -37,8 +37,7 @@ Click me to display Date and Time.</button>
 <p>HTML is already all over this website! <p>
 
 In fact, I think this right here is a part of Markdown!<br>
-<a href="https://https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h1">Markdown Cheatsheet</a>
-
+<a href="https://https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h1">Markdown Cheatsheet</a><br>
 
 <canvas id="myCanvas" width="200" height="100"
 style="border:1px solid #c3c3c3;">
