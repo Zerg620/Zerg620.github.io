@@ -1,5 +1,3 @@
-CSS
-
 <html>
 <head>
 <style>
@@ -26,9 +24,6 @@ p {
 </body>
 </html>
 
-
-Java
-
 <h1>My First JavaScript</h1>
 
 <button type="button"
@@ -36,3 +31,6 @@ onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
 <p id="demo"></p>
+
+<h1>My first HTML Example<h1>
+<p>HTML is already all over this website!<p>
