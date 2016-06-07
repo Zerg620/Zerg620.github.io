@@ -1,7 +1,7 @@
-Progress! Serious progress has been made thanks to Uberoverlord in the Mega-Computer-Pack Discord chat! 
-I can now use html code I find! Check it out!
+Progress! Serious progress has been made thanks to Uberoverlord in the Mega-Computer-Pack Discord chat! <br>
+I can now use html code I find! Check it out!<br>
 
-<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
+<a href="http://www.w3schools.com">Visit W3Schools.com!</a><br>
 
 This means that I can post links to all my works, and even host all my works on a website! That's so cool and helpful!
 Be sure to extract the file from the zip folder and read the README.txt file.
