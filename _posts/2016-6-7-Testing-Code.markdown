@@ -36,7 +36,6 @@ Click me to display Date and Time.</button>
 <h1>My first HTML Example<h1>
 <p>HTML is already all over this website! <p>
 
-In fact, I think this right here is a part of Markdown!
-
+In fact, I think this right here is a part of Markdown!<br>
 <a href="https://https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h1">Markdown Cheatsheet</a>
 
