@@ -38,4 +38,4 @@ Click me to display Date and Time.</button>
 
 In fact, I think this right here is a part of Markdown!<br>
 
-[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h1]
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h1
