@@ -13,7 +13,7 @@ h1 {
 }
 
 p {
-    font-family: "Comic sans";
+    font-family: "Times New Roman";
     font-size: 20px;
 }
 </style>
