@@ -13,7 +13,7 @@ h1 {
 }
 
 p {
-    font-family: "Times New Roman";
+    font-family: "Jokerman";
     font-size: 20px;
 }
 </style>
