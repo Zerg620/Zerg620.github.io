@@ -4,7 +4,7 @@ I can now use html code I find! Check it out!
 <a href="http://www.w3schools.com">Visit W3Schools.com!</a>
 
 This means that I can post links to all my works, and even host all my works on a website! That's so cool and helpful!<br>
-Be sure to extract the file from the zip folder and read the README.txt file.
+Be sure to extract the file from the zip folder with a secondary click (right-click) and read the README.txt file.
 
 PreK Sound Game: <br>
 Click to play a sound. Infants love to imitate and name the sound. Older children can guess what makes the sound<br>
