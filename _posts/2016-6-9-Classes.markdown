@@ -1,11 +1,26 @@
 I've been taking classes at Codecademy and now I can do more amazing things with Javascript!
 
+<html>
+<body>
+
+<p>Click the button to display a confirm box.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
 <script>
-var txt;
-var r = confirm("Press a button!");
-if (r == true) {
-    txt = "You pressed OK!";
-} else {
-    txt = "You pressed Cancel!";
+function myFunction() {
+    var txt;
+    var r = confirm("Press a button!");
+    if (r == true) {
+        txt = "You pressed OK!";
+    } else {
+        txt = "You pressed Cancel!";
+    }
+    document.getElementById("demo").innerHTML = txt;
 }
 </script>
+
+</body>
+</html>
