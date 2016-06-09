@@ -3,23 +3,8 @@ I've been taking classes at Codecademy and now I can do more amazing things with
 <html>
 <body>
 
-<p>Click the button to display a confirm box.</p>
-
-<button onclick="myFunction()">Try it</button>
-
-<p id="demo"></p>
-
 <script>
-function myFunction() {
-    var txt;
-    var r = confirm("Press a button!");
-    if (r == true) {
-        txt = "You pressed OK!";
-    } else {
-        txt = "You pressed Cancel!";
-    }
-    document.getElementById("demo").innerHTML = txt;
-}
+var confirmResult = confirm("I can do more things now that I'm accustomed to programming websites.\nGet Ready!");
 </script>
 
 </body>
