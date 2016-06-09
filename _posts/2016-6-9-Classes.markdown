@@ -1,4 +1,7 @@
 I've been taking classes at Codecademy and now I can do more amazing things with Javascript!
 <script>
-confirm("Prepare yourself to see some cool things!\nHere we go!");
+var confirmResult = confirm("Prepare yourself to see some cool things!\nGet ready!");
+if confirmResult===true{
+  Here we go!
+}
 </script>
