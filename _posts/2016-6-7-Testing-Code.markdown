@@ -10,11 +10,6 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    color: orange;
-    text-align: right;
-}
-
 p {
     text-align: left;
     font-family: "Times New Roman";
@@ -25,7 +20,6 @@ p {
 <body>
 
 <h1>My First CSS Example</h1><h2>Testing<h2>
-*****
 <p>This is a paragraph.</p>
 
 </body>
