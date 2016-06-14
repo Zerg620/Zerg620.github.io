@@ -12,7 +12,7 @@ h1 {
 
 h2 {
     color: orange;
-    text-align: center;
+    text-align: right;
 }
 
 p {
