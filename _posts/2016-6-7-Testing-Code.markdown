@@ -11,7 +11,7 @@ h1 {
 }
 
 p {
-    text-align: center;
+    text-align: left;
     font-family: "Times New Roman";
     font-size: 20px;
 }
